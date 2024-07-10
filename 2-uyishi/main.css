@@ -1,0 +1,125 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: tomato;
+
+}
+
+.h1 {
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    margin-top: 40px;
+}
+
+.box1 {
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    text-align: center;
+    padding-top: 31px;
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 120px
+}
+
+.box2 {
+    display: inline-block;
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    width: 300px;
+    height: 368px;
+    background-color: white;
+    text-align: center;
+    padding-top: 31px;
+    margin-left: 30px;
+}
+
+.trans {
+    padding: 30px;
+}
+
+.h5 {
+    color: red;
+    padding: 23px;
+}
+
+.h6 {
+    color: red;
+    padding: 24px;
+}
+
+
+
+.p1 {
+    padding-top: 30px;
+}
+
+.p2 {
+    color: red;
+    padding-top: 50px;
+}
+
+.p3 {
+    color: red;
+    padding-top: 50px;
+}
+
+.p4 {
+    color: red;
+    padding-top: 50px;
+}
+
+.box3 {
+    display: inline-block;
+    color: black;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    width: 350px;
+    height: 433px;
+    background-color: white;
+    text-align: center;
+    padding-top: 50px;
+    margin-left: 30px;
+}
+
+.row1 {
+    padding-top: 32px;
+}
+
+.row2 {
+    color: red;
+    padding-top: 45px;
+}
+
+.row3 {
+    color: red;
+    padding-top: 43px;
+}
+
+.row4 {
+    color: red;
+    padding-top: 43px;
+}
+
+.row5 {
+    color: red;
+    padding-top: 43px;
+}
+
+.father {
+    margin: 0 auto;
+    width: 1250px;
+    padding-right: 100px;
+}
